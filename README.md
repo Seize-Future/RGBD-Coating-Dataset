@@ -2,7 +2,7 @@
 # RGB-D Coating Dataset
 
 ## Overview
-This dataset contains **130 samples** of seal coating trajectories for **13 industrial parts** (1,690 data groups in total). Data was captured using an RGB-D based robotic system, including color images, depth information, seam points annotations, seam mask ground truths, taught trajectory annotations, and robot transformation matrices. The full dataset is available for download [https://zjueducn-my.sharepoint.com/personal/3190103740_zju_edu_cn/_layouts/15/download.aspx?UniqueId=48ba9103%2Ddbed%2D4005%2Dac39%2D72d29fb2de99](here).
+This dataset contains **130 samples** of seal coating trajectories for **13 industrial parts** (1,690 data groups in total). Data was captured using an RGB-D based robotic system, including color images, depth information, seam points annotations, seam mask ground truths, taught trajectory annotations, and robot transformation matrices. The full dataset is available for download [here](https://zjueducn-my.sharepoint.com/personal/3190103740_zju_edu_cn/_layouts/15/download.aspx?UniqueId=48ba9103%2Ddbed%2D4005%2Dac39%2D72d29fb2de99).
 
 <p align="center">
   <img src="img/workpieces.png" alt="13 types of workpieces" width="70%">
